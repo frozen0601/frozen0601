@@ -4,8 +4,8 @@
 🎓 **MISM '23 Graduate from Carnegie Mellon University**  
 🔥 **Passionate about Tech, Data Engineering, and Building Things That Matter**  
 
-#### My Latest Side Project 🚀  
-**[BlinkBlink - Eye Health Break Timer](https://blinkblinkapp.github.io/)**  
+#### [<img src="https://github.com/user-attachments/assets/721ce601-b05d-448a-bb5e-4aa0573f633c" width="24">](https://blinkblinkapp.github.io/) **[BlinkBlink](https://blinkblinkapp.github.io/)** - My Latest Side Project
+
 An app I built to follow the 20-20-20 rule and reduce screen-related eye strain. It helps you take regular breaks, tracks streaks, and is now available on multiple platforms!  
 
 ---
