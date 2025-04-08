@@ -3,10 +3,13 @@
 🌏 **Taiwanese Software Engineer based in the US**  
 🎓 **MISM '23 Graduate from Carnegie Mellon University**  
 🔥 **Passionate about Tech, Data Engineering, and Building Things That Matter**  
+🚀 **Interactive Resume**  Curious about my background, skills, or projects? [🗨️ Chat with my resume](https://chatgpt.com/share/67f5a7ad-04d8-8010-a9f1-9a768f84dc15) — ask me anything!
 
 #### [<img src="https://github.com/user-attachments/assets/721ce601-b05d-448a-bb5e-4aa0573f633c" width="24">](https://blinkblinkapp.github.io/) **[BlinkBlink](https://blinkblinkapp.github.io/)** - My Latest Side Project
 
-An app I built to follow the 20-20-20 rule and reduce screen-related eye strain. It helps you take regular breaks, tracks streaks, and is now available on multiple platforms!  
+An app I built to follow the 20-20-20 rule and reduce screen-related eye strain. It helps you take regular breaks, tracks streaks, and is now available on multiple platforms!
+
+
 
 ---
 
